@@ -1,4 +1,4 @@
-const MB = require('./mbbank/dist/index');
+const { MB } = require('./mbbank/dist/index');
 
 const formatDate = (date) => {
   const day = String(date.getDate()).padStart(2, '0');
