@@ -1,4 +1,7 @@
 # Unofficial MBBank API (V3)
+CREDIT BIG THANKS TO: 
+https://github.com/CookieGMVN/MBBank
+https://github.com/thedtvn/MBBank
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/mstrvndev/mbbankapiunofficial)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
